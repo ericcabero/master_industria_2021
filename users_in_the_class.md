@@ -5,6 +5,7 @@
  - Joan
  - Domingo
  - Beatriz
+ - Eric
 
 -----
 # Professor
